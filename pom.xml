@@ -40,7 +40,7 @@
 
     <licenses>
         <license>
-            <name>Copyright 2012 Barnesandnoble.com, llc, Donavon West, and Domenic Denicola</name>
+            <name>MIT</name>
             <url>https://github.com/YuzuJS/setImmediate/blob/master/LICENSE.txt</url>
             <distribution>repo</distribution>
         </license>
